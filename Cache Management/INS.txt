@@ -1,0 +1,8 @@
+ADD a b
+SUB r d
+MUL e f
+ADD g a
+XOR a a
+AND r a
+OR a a
+NOR a r

@@ -1,0 +1,234 @@
+Fri Dec  9 12:27:01 2016
+: Execution Started
+
+Fri Dec  9 12:27:01 2016
+: Thread 1 started
+: Cache_MFU created
+
+Fri Dec  9 12:27:01 2016
+: Thread 2 started
+: Cache_MRU created
+
+Fri Dec  9 12:27:01 2016
+: Thread 4 started
+: Cache_LFU created
+
+Fri Dec  9 12:27:01 2016
+: Thread 1 Executed
+: Cache_MFU modified and closed
+
+Fri Dec  9 12:27:01 2016
+: Thread 2 executed
+: Cache_MRU modified and closed
+
+Fri Dec  9 12:27:01 2016
+: Thread 4 executed
+: Cache_LFU modified and closed
+
+Fri Dec  9 12:27:01 2016
+: Thread 3 started
+: Cache_FIFO created
+
+Fri Dec  9 12:29:12 2016
+: Execution Started
+
+Fri Dec  9 12:29:12 2016
+: Thread 1 started
+: Cache_MFU created
+
+Fri Dec  9 12:29:12 2016
+: Thread 2 started
+: Cache_MRU created
+
+Fri Dec  9 12:29:12 2016
+: Thread 3 started
+: Cache_FIFO created
+
+Fri Dec  9 12:29:12 2016
+: Thread 4 started
+: Cache_LFU created
+
+Fri Dec  9 12:29:12 2016
+: Thread 1 Executed
+: Cache_MFU modified and closed
+
+Fri Dec  9 12:29:12 2016
+: Thread 2 executed
+: Cache_MRU modified and closed
+
+Fri Dec  9 12:29:12 2016
+: Thread 4 executed
+: Cache_LFU modified and closed
+
+Fri Dec  9 12:30:33 2016
+: Execution Started
+
+Fri Dec  9 12:30:33 2016
+: Thread 1 started
+: Cache_MFU created
+
+Fri Dec  9 12:30:33 2016
+: Thread 2 started
+: Cache_MRU created
+
+Fri Dec  9 12:30:33 2016
+: Thread 3 started
+: Cache_FIFO created
+
+Fri Dec  9 12:30:33 2016
+: Thread 4 started
+: Cache_LFU created
+
+Fri Dec  9 12:30:33 2016
+: Thread 1 Executed
+: Cache_MFU modified and closed
+
+Fri Dec  9 12:30:33 2016
+: Thread 2 executed
+: Cache_MRU modified and closed
+
+Fri Dec  9 12:30:33 2016
+: Thread 4 executed
+: Cache_LFU modified and closed
+
+Fri Dec  9 12:30:33 2016
+: Cache Miss : 1
+
+Fri Dec  9 12:30:33 2016
+: Cache Miss : 2
+
+Fri Dec  9 12:30:33 2016
+: Cache Miss : 3
+
+Fri Dec  9 12:30:33 2016
+: Cache Miss : 4
+
+Fri Dec  9 12:30:33 2016
+: Cache Miss : 5
+
+Fri Dec  9 12:30:33 2016
+: Cache Miss : 6
+
+Fri Dec  9 12:30:33 2016
+: Cache Miss : 7
+
+Fri Dec  9 12:30:33 2016
+: Cache Miss : 8
+
+Fri Dec  9 12:30:33 2016
+: Cache Hit : 1
+
+Fri Dec  9 12:30:33 2016
+: Cache Hit : 2
+
+Fri Dec  9 12:30:33 2016
+: Cache Miss : 9
+
+Fri Dec  9 12:30:33 2016
+: Cache Hit : 3
+
+Fri Dec  9 12:30:33 2016
+: Cache Hit : 4
+
+Fri Dec  9 12:30:33 2016
+: Cache Hit : 5
+
+Fri Dec  9 12:30:33 2016
+: Cache Hit : 6
+
+Fri Dec  9 12:30:33 2016
+: Cache Hit : 7
+
+Fri Dec  9 12:30:33 2016
+: Thread 3 executed
+: Cache_FIFO modified and closed
+
+Fri Dec  9 12:30:33 2016
+: Execution Completed
+
+Fri Dec  9 12:31:26 2016
+: Execution Started
+
+Fri Dec  9 12:31:26 2016
+: Thread 1 started
+: Cache_MFU created
+
+Fri Dec  9 12:31:26 2016
+: Thread 2 started
+: Cache_MRU created
+
+Fri Dec  9 12:31:26 2016
+: Thread 3 started
+: Cache_FIFO created
+
+Fri Dec  9 12:31:26 2016
+: Thread 4 started
+: Cache_LFU created
+
+Fri Dec  9 12:31:26 2016
+: Thread 1 Executed
+: Cache_MFU modified and closed
+
+Fri Dec  9 12:31:26 2016
+: Thread 2 executed
+: Cache_MRU modified and closed
+
+Fri Dec  9 12:31:26 2016
+: Thread 4 executed
+: Cache_LFU modified and closed
+
+Fri Dec  9 12:31:26 2016
+: Cache Miss : 1
+
+Fri Dec  9 12:31:26 2016
+: Cache Miss : 2
+
+Fri Dec  9 12:31:26 2016
+: Cache Miss : 3
+
+Fri Dec  9 12:31:26 2016
+: Cache Miss : 4
+
+Fri Dec  9 12:31:26 2016
+: Cache Miss : 5
+
+Fri Dec  9 12:31:26 2016
+: Cache Miss : 6
+
+Fri Dec  9 12:31:26 2016
+: Cache Miss : 7
+
+Fri Dec  9 12:31:26 2016
+: Cache Miss : 8
+
+Fri Dec  9 12:31:26 2016
+: Cache Hit : 1
+
+Fri Dec  9 12:31:26 2016
+: Cache Hit : 2
+
+Fri Dec  9 12:31:26 2016
+: Cache Miss : 9
+
+Fri Dec  9 12:31:26 2016
+: Cache Hit : 3
+
+Fri Dec  9 12:31:26 2016
+: Cache Hit : 4
+
+Fri Dec  9 12:31:26 2016
+: Cache Hit : 5
+
+Fri Dec  9 12:31:26 2016
+: Cache Hit : 6
+
+Fri Dec  9 12:31:26 2016
+: Cache Hit : 7
+
+Fri Dec  9 12:31:26 2016
+: Thread 3 executed
+: Cache_FIFO modified and closed
+
+Fri Dec  9 12:31:26 2016
+: Execution Completed
+
